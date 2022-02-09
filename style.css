@@ -1,0 +1,132 @@
+/* #### change fonts, text styles, background colors, links, hover covers- nav bar bleh... etc etc. etc. #### */
+/* 
+#2f5046 (green) 
+#d9aeb8 (pink) 
+#e2cbd1 (ligher pink)
+#e3dcd9 (cream) 
+#737e4a (palm light green) 
+#313632 (black) 
+#8a857d(grey) 
+#063970 (blue) #154c79 */
+
+/* Fonts */
+
+
+/* Nav CSS */
+
+#navbar-example2 {
+  background-color: #2f5046 ;
+}
+.nav-link {
+  color: #e3dcd9 !important;
+  font-size: 18px;
+}
+.nav-link.active {
+  background-color: #d9aeb8 !important;
+}
+
+#footer-background-image {
+
+  background-color: none;
+  
+}
+
+/* Body */
+
+.head {
+  color: #2f5046;
+  font-size: 85px;
+  text-align: center;
+  font-weight: light;
+}
+
+.head:hover {
+  text-decoration: underline;
+}
+
+.head2 {
+  color: #2f5046;
+  font-size: 50px;
+  text-align: center;
+  font-weight: light;
+}
+
+.head2:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  color: #313632;
+  font-size: 24px;
+  text-align: center;
+  font-weight: light;
+}
+
+hr {
+  color: #2f5046;
+  width: 100;
+}
+
+body {
+  background-color: #e3dcd9;
+}
+
+.copyright-text {
+  color: #2f5046;
+}
+
+.quote {
+  color: #2f5046;
+}
+
+.project-name {
+  color: #313632 ;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.port-item-name {
+  color: #313632;
+  font-size: 16px;
+  font-weight: italic;
+}
+
+.project-year {
+  color: #313632 ;
+  font-size: 16px;
+  font-weight: italic;
+}
+
+.port-desc {
+  color: #313632  ;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.port-medium {
+  color: #313632 ;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.about {
+  color: #313632 ;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer-title {
+  color: #313632 ;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h6 {
+  color: #313632 ;
+  font-size: 16px;
+  font-weight: italic;
+}
+
+@media(max-width:767px) {
+  }
+
