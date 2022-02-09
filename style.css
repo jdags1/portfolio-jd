@@ -11,6 +11,9 @@
 
 /* Fonts */
 
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+
 
 /* Nav CSS */
 
@@ -34,10 +37,10 @@
 /* Body */
 
 .head {
+  font-family: 'Architects Daughter', cursive;
   color: #2f5046;
   font-size: 85px;
   text-align: center;
-  font-weight: light;
 }
 
 .head:hover {
@@ -45,10 +48,10 @@
 }
 
 .head2 {
+  font-family: 'Architects Daughter', cursive;
   color: #2f5046;
   font-size: 50px;
   text-align: center;
-  font-weight: light;
 }
 
 .head2:hover {
@@ -59,7 +62,6 @@ h3 {
   color: #313632;
   font-size: 24px;
   text-align: center;
-  font-weight: light;
 }
 
 hr {
