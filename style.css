@@ -129,6 +129,23 @@ h6 {
   font-weight: italic;
 }
 
+/* unvisited link */
+a:link {
+  color: #d9aeb8;
+ }
+ /* visited link */
+ a:visited {
+  color: #d9aeb8;
+ }
+ /* mouse over link */
+ a:hover {
+   color: #154c79;
+ }
+ /* selected link */
+ a:active {
+  color: #d9aeb8;
+ }
+
 @media(max-width:767px) {
   }
 
